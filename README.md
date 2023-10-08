@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rudraneel Bhattacharyya
 - 👀 I’m interested in development and analytics
 - 🌱 I’m currently learning DSA and Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data alalytics and development projects.
 - 📫 How to reach me @https://www.linkedin.com/in/rudraneelbhattacharyya9/
 
 <!---
