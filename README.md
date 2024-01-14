@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rudraneel Bhattacharyya
-- 👀 I’m interested in development and analytics
-- 🌱 I’m currently learning DSA and Web Development.
+- 👋 Hi, I’m Rudraneel Bhattacharyya, pursuing B.Tech (ECE) from NIT, Agartala.
+- 👀 I’m interested in software development and data analytics.
+- 🌱 Effiecient in Python, C++, C, HTML, CSS,, JS, React, along with Flask.
 - 💞️ I’m looking to collaborate on data alalytics and development projects.
-- 📫 How to reach me @https://www.linkedin.com/in/rudraneelbhattacharyya9/
+- 📫 Can reach me @https://www.linkedin.com/in/rudraneelbhattacharyya9/
 
 <!---
 neelrudra2/neelrudra2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
