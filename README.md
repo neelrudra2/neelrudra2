@@ -23,7 +23,7 @@ I am an aspiring software developer with a strong foundation in programming lang
 
 ---
 
-## 📊 Stats
+### 📊 Stats
 
 ![Rudraneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelrudra2&show_icons=true&theme=github_dark)
 
