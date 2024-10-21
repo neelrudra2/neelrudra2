@@ -31,10 +31,9 @@ I am an aspiring software developer with a strong foundation in programming lang
 
 ### Brief Introduction
 
-- 🔭 I am Rudraneel Bhattacharyya, a budding software developer.
-- 🔭 I’m currently working on Data Structures and Algorithms.
-- 🌱 I’m currently learning Machine Learning Tools, and DSA.
+- 🔭 I am a budding software developer.
+- 🔭 I’m currently working on AI/MLprojects.
+- 🌱 I’m currently learning Machine Learning Tools, and Data Structures and Algorithms (DSA).
 - 👯 I’m looking to collaborate on AI/ML based projects, that tend to solve any real-life problems.
-- 🤔 I’m looking for help with Artificial Intelligence impact on the field of Avionics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rudraneelbhattacharyya9/)
 
