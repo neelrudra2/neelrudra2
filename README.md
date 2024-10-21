@@ -29,6 +29,8 @@ I am an aspiring software developer with a strong foundation in programming lang
 
 ---
 
+### Brief Introduction
+
 - 🔭 I am Rudraneel Bhattacharyya, a budding software developer.
 - 🔭 I’m currently working on Data Structures and Algorithms.
 - 🌱 I’m currently learning Machine Learning Tools, and DSA.
