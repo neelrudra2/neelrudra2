@@ -2,7 +2,7 @@
 
 **`Budding Software Developer`**
 
-I am an aspiring software developer with a strong foundation in programming languages like Python and C++. I have hands-on experience in various projects, including web development, travel itinerary planning, and financial data analysis. My interests also extend to electronics and communication, where I am exploring software-driven projects related to digital electronics and signal processing. I am passionate about learning new technologies and continuously improving my skills to contribute to innovative solutions in software development.
+I am an aspiring software developer with a strong foundation in programming languages like `Python` and `C++`. I have hands-on experience in various projects, including web development, travel itinerary planning, and financial data analysis. My interests also extend to electronics and communication, where I am exploring software-driven projects related to digital electronics and signal processing. I am passionate about learning new technologies and continuously improving my skills to contribute to innovative solutions in software development.
 
 ---
 
