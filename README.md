@@ -6,6 +6,16 @@ I am an aspiring software developer with a strong foundation in programming lang
 
 ---
 
+### Brief Introduction
+
+- 🔭 I am a budding software developer.
+- 🔭 I’m currently working on AI/MLprojects.
+- 🌱 I’m currently learning Machine Learning Tools, and Data Structures and Algorithms (DSA).
+- 👯 I’m looking to collaborate on AI/ML based projects, that tend to solve any real-life problems.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rudraneelbhattacharyya9/)
+
+---
+
 ### Languages and Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
@@ -26,14 +36,4 @@ I am an aspiring software developer with a strong foundation in programming lang
 ### 📊 Stats
 
 ![Rudraneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelrudra2&show_icons=true&theme=github_dark)
-
----
-
-### Brief Introduction
-
-- 🔭 I am a budding software developer.
-- 🔭 I’m currently working on AI/MLprojects.
-- 🌱 I’m currently learning Machine Learning Tools, and Data Structures and Algorithms (DSA).
-- 👯 I’m looking to collaborate on AI/ML based projects, that tend to solve any real-life problems.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rudraneelbhattacharyya9/)
 
