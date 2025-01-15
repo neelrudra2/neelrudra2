@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I am Rudraneel:
 I am a budding **`Software Developer`** with a strong foundation in programming languages like **`Python`** and **`C++`**. I have hands-on experience in various web development projects, like Artificial Intelligence based healthcare management system, travel itinerary planning, and financial data analysis, etc. My interests also extend to electronics and communication, where I am exploring software-driven projects related to digital electronics and signal processing. I am passionate about learning new technologies and continuously improving my skills to contribute to innovative solutions in software development.<br><br>
 
 🔭 I’m currently working on Web Development projects, that solve real-life problems.<br>
