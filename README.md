@@ -52,66 +52,10 @@ I enjoy working on **real-world engineering problems** where **core electronics 
 
 ---
 
-## 🚀 Highlighted Projects
-
-### 🔸 Peer-to-Peer TCP Chat Application
-**Python | TCP/IP | Multithreading**
-
-- Designed a real-time peer-to-peer chat system for bi-directional communication  
-- Implemented multi-threaded architecture to enable non-blocking message transfer  
-- Achieved low-latency communication across different IP/port configurations  
-
-🎯 *Focus:* Computer Networks, Concurrent Systems  
-
----
-
-### 🔸 Multi-Robot Warehouse Automation Simulator
-**Python | A* Algorithm | Simulation**
-
-- Simulated autonomous robots for parcel pickup and delivery in a warehouse grid  
-- Implemented A* pathfinding to optimize routes and reduce travel distance  
-- Achieved collision-free navigation using dynamic re-routing  
-
-🎯 *Focus:* Algorithms, Optimization, System Simulation  
-
----
-
-### 🔸 Image Denoising & Enhancement
-**MATLAB | Digital Image Processing**
-
-- Applied Mean, Median, and Wiener filters for noise suppression  
-- Enhanced image quality using histogram equalization  
-- Evaluated performance using PSNR and MSE metrics  
-
-🎯 *Focus:* Signal Processing, Image Analysis  
-
----
-
-## 🏭 Industrial Exposure
-
-### ✈️ Airports Authority of India — Summer Trainee  
-**Communication, Navigation & Surveillance (CNS)**  
-📍 Agartala Airport | *May 2025 – June 2025*
-
-- Worked with aviation-grade communication systems supporting 24×7 ATC operations  
-- Studied systems including **ILS, DME, ADS-B, and VHF/UHF communication**  
-- Gained insight into safety-critical, real-time engineering systems  
-
----
-
-## 🏆 Achievements & Certifications
-
-- ⭐ **475+ problems solved** on GeeksforGeeks (3★ rating)  
-- ⭐ **250+ problems solved** on LeetCode (Peak Rating: 1583)  
-- 📜 Embedded Systems Certification — NIELIT Calicut  
-- 📜 AI/ML for Geospatial Applications — IIRS (ISRO)  
-
----
-
 ## 🌐 Let’s Connect
 
-- 💼 LinkedIn: **[FILL LATER]**  
-- 📧 Email: **[FILL LATER]**  
+- 💼 LinkedIn: https://www.linkedin.com/in/rudraneelbhattacharyya9/  
+- 📧 Email: neel.rudra.mailbox@gmail.com 
 - 💻 GitHub: https://github.com/neelrudra2  
 
 ---
