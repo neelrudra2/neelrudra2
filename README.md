@@ -1,25 +1,34 @@
-# 👋 Hi, I'm Rudraneel Bhattacharyya
+<div align="center">
 
-🎓 **B.Tech in Electronics & Communication Engineering**  
+# 👋 Hi, I'm Rudraneel Bhattacharyya  
+### 🎓 Electronics & Communication Engineer | Systems & Networking Enthusiast
+
 📍 National Institute of Technology, Agartala  
-🔧 ECE | Systems | Networking | Algorithms  
+💡 Bridging **Core Electronics** with **Practical Software Systems**
 
-I am an **Electronics & Communication Engineering undergraduate** with a strong inclination towards **software-driven system design**, **computer networks**, and **digital signal & image processing**. My work lies at the intersection of **core electronics fundamentals and practical software implementation**, with hands-on experience in **network programming, simulation, and algorithmic problem solving**.
-
-I enjoy building **real-world systems**, simulating complex environments, and understanding how low-level concepts translate into scalable applications.
+</div>
 
 ---
 
-## 🔬 Core Interests
-- Communication & Networking Systems  
-- Digital Image Processing  
-- Embedded & Microprocessor-based Systems  
-- Algorithm Design & Optimization  
-- Software Simulation for Engineering Problems  
+## 🧠 About Me
+
+I am a **final-year Electronics & Communication Engineering undergraduate** with strong fundamentals in **communication systems, digital image processing, and microprocessor-based systems**, complemented by hands-on experience in **network programming, algorithm design, and software simulation**.
+
+I enjoy working on **real-world engineering problems** where **core electronics concepts are translated into software-driven solutions** — from communication systems to intelligent simulations.
 
 ---
 
-## 🛠️ Technical Skillset
+## 🔬 Areas of Interest
+
+- 📡 Communication & Networking Systems  
+- 🖼️ Digital Image & Signal Processing  
+- 🧩 Algorithms & Path Planning  
+- ⚙️ Embedded & Microprocessor Systems  
+- 🧪 Engineering Simulations  
+
+---
+
+## 🛠️ Technical Arsenal
 
 ### 🔹 Core Electronics
 - Digital Image Processing  
@@ -27,11 +36,11 @@ I enjoy building **real-world systems**, simulating complex environments, and un
 - Embedded Systems  
 - Communication Systems  
 
-### 🔹 Programming & CS Fundamentals
+### 🔹 Programming & CS
 - **Languages:** C, C++, Python  
 - **Computer Networks:** TCP/IP, Socket Programming  
-- **Algorithms & DSA**  
-- **Operating System Concepts (Foundational)**  
+- **Data Structures & Algorithms**  
+- **Operating Systems (Foundational)**  
 
 ### 🔹 Tools & Platforms
 - MATLAB  
@@ -41,78 +50,90 @@ I enjoy building **real-world systems**, simulating complex environments, and un
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Projects
 
-### 🔹 Peer-to-Peer TCP Chat Application
-**Tech:** Python, TCP/IP, Socket Programming, Multithreading  
+### 🔸 Peer-to-Peer TCP Chat Application
+**Python | TCP/IP | Multithreading**
 
-- Designed a real-time peer-to-peer chat system enabling bi-directional communication  
-- Implemented multi-threading for non-blocking send/receive operations  
-- Achieved low-latency message delivery across multiple network configurations  
+- Designed a real-time peer-to-peer chat system for bi-directional communication  
+- Implemented multi-threaded architecture to enable non-blocking message transfer  
+- Achieved low-latency communication across different IP/port configurations  
 
-📌 *Focus Areas:* Computer Networks, Concurrent Programming  
+🎯 *Focus:* Computer Networks, Concurrent Systems  
 
 ---
 
-### 🔹 Multi-Robot Warehouse Automation Simulator
-**Tech:** Python, Matplotlib, A* Pathfinding  
+### 🔸 Multi-Robot Warehouse Automation Simulator
+**Python | A* Algorithm | Simulation**
 
-- Simulated autonomous robots performing parcel pickup & delivery tasks  
+- Simulated autonomous robots for parcel pickup and delivery in a warehouse grid  
 - Implemented A* pathfinding to optimize routes and reduce travel distance  
-- Ensured collision-free navigation using dynamic route re-planning  
+- Achieved collision-free navigation using dynamic re-routing  
 
-📌 *Focus Areas:* Algorithms, Simulation, System Optimization  
+🎯 *Focus:* Algorithms, Optimization, System Simulation  
 
 ---
 
-### 🔹 Image Denoising & Enhancement
-**Tech:** MATLAB, Digital Image Processing  
+### 🔸 Image Denoising & Enhancement
+**MATLAB | Digital Image Processing**
 
-- Applied Mean, Median, and Wiener filters to suppress Gaussian noise  
-- Improved image quality with histogram equalization  
+- Applied Mean, Median, and Wiener filters for noise suppression  
+- Enhanced image quality using histogram equalization  
 - Evaluated performance using PSNR and MSE metrics  
 
-📌 *Focus Areas:* Signal Processing, Image Analysis  
+🎯 *Focus:* Signal Processing, Image Analysis  
 
 ---
 
-## 🏭 Industrial Experience
+## 🏭 Industrial Exposure
 
-### ✈️ Summer Trainee — Airports Authority of India (AAI)
-**Department:** Communication, Navigation & Surveillance (CNS)  
-📍 Agartala Airport | May 2025 – June 2025  
+### ✈️ Airports Authority of India — Summer Trainee  
+**Communication, Navigation & Surveillance (CNS)**  
+📍 Agartala Airport | *May 2025 – June 2025*
 
-- Gained exposure to aviation communication systems supporting 24×7 ATC operations  
-- Worked with systems like ILS, DME, ADS-B, and VHF/UHF communication  
-- Developed a practical understanding of safety-critical real-time systems  
+- Worked with aviation-grade communication systems supporting 24×7 ATC operations  
+- Studied systems including **ILS, DME, ADS-B, and VHF/UHF communication**  
+- Gained insight into safety-critical, real-time engineering systems  
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
+
 - ⭐ **475+ problems solved** on GeeksforGeeks (3★ rating)  
 - ⭐ **250+ problems solved** on LeetCode (Peak Rating: 1583)  
-- 📜 Certified in Embedded Systems — NIELIT Calicut  
-- 📜 Certified in AI/ML for Geospatial Applications — IIRS (ISRO)  
+- 📜 Embedded Systems Certification — NIELIT Calicut  
+- 📜 AI/ML for Geospatial Applications — IIRS (ISRO)  
 
 ---
 
-## 🤝 Positions of Responsibility
-- **Technical Content Writer** — GeeksforGeeks  
-- **Managed Network Expert** — Chegg Inc.  
+## 🤝 Leadership & Responsibilities
+
+- ✍️ **Technical Content Writer** — GeeksforGeeks  
+- 🧠 **Managed Network Expert** — Chegg Inc.  
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: [TO BE FILLED]  
-- 📧 Email: [TO BE FILLED]  
+## 🌐 Let’s Connect
+
+- 💼 LinkedIn: **[FILL LATER]**  
+- 📧 Email: **[FILL LATER]**  
 - 💻 GitHub: https://github.com/neelrudra2  
 
 ---
 
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelrudra2&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelrudra2&layout=compact&theme=tokyonight)
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=neelrudra2&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelrudra2&layout=compact&theme=tokyonight" height="165"/>
+
+</div>
 
 ---
 
-> _“Engineering is not just about building systems — it’s about understanding them deeply.”_
+<div align="center">
+
+> ⚡ *“Strong systems are built when fundamentals meet execution.”*
+
+</div>
