@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Rudraneel Bhattacharyya  
-### 🎓 Electronics & Communication Engineer | Systems & Networking Enthusiast
+### 🎓 Electronics & Communication Engineer | Embedded Systems & Networking Enthusiast
 
 📍 National Institute of Technology, Agartala  
 💡 Bridging **Core Electronics** with **Practical Software Systems**
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I am a **final-year Electronics & Communication Engineering undergraduate** with strong fundamentals in **communication systems, digital image processing, and microprocessor-based systems**, complemented by hands-on experience in **network programming, algorithm design, and software simulation**.
+I am a **final-year Electronics & Communication Engineering undergraduate** with strong fundamentals in **embedded systems, communication systems, digital image processing, and microprocessor-based systems**, complemented by hands-on experience in **network programming, algorithm design, and software simulation**.
 
 I enjoy working on **real-world engineering problems** where **core electronics concepts are translated into software-driven solutions** — from communication systems to intelligent simulations.
 
@@ -31,10 +31,10 @@ I enjoy working on **real-world engineering problems** where **core electronics 
 ## 🛠️ Technical Arsenal
 
 ### 🔹 Core Electronics
-- Digital Image Processing  
-- Microprocessors & Microcontrollers  
 - Embedded Systems  
-- Communication Systems  
+- Microprocessors & Microcontrollers 
+- Communication Systems
+- Digital Image Processing  
 
 ### 🔹 Programming & CS
 - **Languages:** C, C++, Python  
@@ -46,7 +46,9 @@ I enjoy working on **real-world engineering problems** where **core electronics 
 - MATLAB  
 - Git & GitHub  
 - VS Code  
-- Matplotlib  
+- Matplotlib
+- Arduino
+- STM32F401 Nucleo 
 
 ---
 
@@ -103,13 +105,6 @@ I enjoy working on **real-world engineering problems** where **core electronics 
 - ⭐ **250+ problems solved** on LeetCode (Peak Rating: 1583)  
 - 📜 Embedded Systems Certification — NIELIT Calicut  
 - 📜 AI/ML for Geospatial Applications — IIRS (ISRO)  
-
----
-
-## 🤝 Leadership & Responsibilities
-
-- ✍️ **Technical Content Writer** — GeeksforGeeks  
-- 🧠 **Managed Network Expert** — Chegg Inc.  
 
 ---
 
