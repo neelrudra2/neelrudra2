@@ -1,24 +1,118 @@
-# 💫 Hi! I am Rudraneel
-I am a budding **`Software Developer`** with a strong foundation in programming languages like **`Python`** and **`C++`**. I have hands-on experience in various web development projects, like Artificial Intelligence based healthcare management system, travel itinerary planning, and financial data analysis, etc. My interests also extend to electronics and communication, where I am exploring software-driven projects related to digital electronics and signal processing. I am passionate about learning new technologies and continuously improving my skills to contribute to innovative solutions in software development.<br><br>
+# 👋 Hi, I'm Rudraneel Bhattacharyya
 
-🔭 I’m currently working on Web Development projects, that solve real-life problems.<br>
-🌱 I’m currently learning Machine Learning Tools, and Data Structures and Algorithms (DSA).<br>
-👯 I’m looking to collaborate on AI/ML based projects.
+🎓 **B.Tech in Electronics & Communication Engineering**  
+📍 National Institute of Technology, Agartala  
+🔧 ECE | Systems | Networking | Algorithms  
 
+I am an **Electronics & Communication Engineering undergraduate** with a strong inclination towards **software-driven system design**, **computer networks**, and **digital signal & image processing**. My work lies at the intersection of **core electronics fundamentals and practical software implementation**, with hands-on experience in **network programming, simulation, and algorithmic problem solving**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraneelbhattacharyya9) 
+I enjoy building **real-world systems**, simulating complex environments, and understanding how low-level concepts translate into scalable applications.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neelrudra2&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=neelrudra2&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neelrudra2&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neelrudra2&theme=default&no-frame=false&no-bg=false&margin-w=4)
+## 🔬 Core Interests
+- Communication & Networking Systems  
+- Digital Image Processing  
+- Embedded & Microprocessor-based Systems  
+- Algorithm Design & Optimization  
+- Software Simulation for Engineering Problems  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+## 🛠️ Technical Skillset
+
+### 🔹 Core Electronics
+- Digital Image Processing  
+- Microprocessors & Microcontrollers  
+- Embedded Systems  
+- Communication Systems  
+
+### 🔹 Programming & CS Fundamentals
+- **Languages:** C, C++, Python  
+- **Computer Networks:** TCP/IP, Socket Programming  
+- **Algorithms & DSA**  
+- **Operating System Concepts (Foundational)**  
+
+### 🔹 Tools & Platforms
+- MATLAB  
+- Git & GitHub  
+- VS Code  
+- Matplotlib  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Peer-to-Peer TCP Chat Application
+**Tech:** Python, TCP/IP, Socket Programming, Multithreading  
+
+- Designed a real-time peer-to-peer chat system enabling bi-directional communication  
+- Implemented multi-threading for non-blocking send/receive operations  
+- Achieved low-latency message delivery across multiple network configurations  
+
+📌 *Focus Areas:* Computer Networks, Concurrent Programming  
+
+---
+
+### 🔹 Multi-Robot Warehouse Automation Simulator
+**Tech:** Python, Matplotlib, A* Pathfinding  
+
+- Simulated autonomous robots performing parcel pickup & delivery tasks  
+- Implemented A* pathfinding to optimize routes and reduce travel distance  
+- Ensured collision-free navigation using dynamic route re-planning  
+
+📌 *Focus Areas:* Algorithms, Simulation, System Optimization  
+
+---
+
+### 🔹 Image Denoising & Enhancement
+**Tech:** MATLAB, Digital Image Processing  
+
+- Applied Mean, Median, and Wiener filters to suppress Gaussian noise  
+- Improved image quality with histogram equalization  
+- Evaluated performance using PSNR and MSE metrics  
+
+📌 *Focus Areas:* Signal Processing, Image Analysis  
+
+---
+
+## 🏭 Industrial Experience
+
+### ✈️ Summer Trainee — Airports Authority of India (AAI)
+**Department:** Communication, Navigation & Surveillance (CNS)  
+📍 Agartala Airport | May 2025 – June 2025  
+
+- Gained exposure to aviation communication systems supporting 24×7 ATC operations  
+- Worked with systems like ILS, DME, ADS-B, and VHF/UHF communication  
+- Developed a practical understanding of safety-critical real-time systems  
+
+---
+
+## 🏆 Achievements
+- ⭐ **475+ problems solved** on GeeksforGeeks (3★ rating)  
+- ⭐ **250+ problems solved** on LeetCode (Peak Rating: 1583)  
+- 📜 Certified in Embedded Systems — NIELIT Calicut  
+- 📜 Certified in AI/ML for Geospatial Applications — IIRS (ISRO)  
+
+---
+
+## 🤝 Positions of Responsibility
+- **Technical Content Writer** — GeeksforGeeks  
+- **Managed Network Expert** — Chegg Inc.  
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: [TO BE FILLED]  
+- 📧 Email: [TO BE FILLED]  
+- 💻 GitHub: https://github.com/neelrudra2  
+
+---
+
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelrudra2&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelrudra2&layout=compact&theme=tokyonight)
+
+---
+
+> _“Engineering is not just about building systems — it’s about understanding them deeply.”_
