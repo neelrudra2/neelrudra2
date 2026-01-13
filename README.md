@@ -14,7 +14,7 @@
 
 I am a **final-year Electronics & Communication Engineering undergraduate** with strong fundamentals in **communication systems, digital image processing, and microprocessor-based systems**, complemented by hands-on experience in **network programming, algorithm design, and software simulation**.
 
-I enjoy working on **real-world engineering problems** where **core electronics concepts are translated into software-driven solutions** — from communication systems to intelligent simulations.
+I enjoy working on **real-world engineering problems** where **core electronics concepts are translated into software-driven solutions** - from communication systems to intelligent simulations.
 
 ---
 
