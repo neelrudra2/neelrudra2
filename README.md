@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Rudraneel Bhattacharyya  
-### 🎓 Electronics & Communication Engineer | Embedded Systems & Networking Enthusiast
+### 🎓 Electronics & Communication Engineer | Systems & Networking Enthusiast
 
 📍 National Institute of Technology, Agartala  
 💡 Bridging **Core Electronics** with **Practical Software Systems**
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I am a **final-year Electronics & Communication Engineering undergraduate** with strong fundamentals in **embedded systems, communication systems, digital image processing, and microprocessor-based systems**, complemented by hands-on experience in **network programming, algorithm design, and software simulation**.
+I am a **final-year Electronics & Communication Engineering undergraduate** with strong fundamentals in **communication systems, digital image processing, and microprocessor-based systems**, complemented by hands-on experience in **network programming, algorithm design, and software simulation**.
 
 I enjoy working on **real-world engineering problems** where **core electronics concepts are translated into software-driven solutions** — from communication systems to intelligent simulations.
 
@@ -23,15 +23,13 @@ I enjoy working on **real-world engineering problems** where **core electronics 
 - 📡 Communication & Networking Systems  
 - 🖼️ Digital Image & Signal Processing  
 - 🧩 Algorithms & Path Planning  
-- ⚙️ Embedded & Microprocessor Systems  
-- 🧪 Engineering Simulations  
+- ⚙️ Engineering Simulations  
 
 ---
 
 ## 🛠️ Technical Arsenal
 
 ### 🔹 Core Electronics
-- Embedded Systems  
 - Microprocessors & Microcontrollers 
 - Communication Systems
 - Digital Image Processing  
