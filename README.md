@@ -58,17 +58,6 @@ I enjoy working on **real-world engineering problems** where **core electronics 
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=neelrudra2&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelrudra2&layout=compact&theme=tokyonight" height="165"/>
-
-</div>
-
----
-
 <div align="center">
 
 > ⚡ *“Strong systems are built when fundamentals meet execution.”*
