@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I am a **final-year Electronics & Communication Engineering undergraduate** with strong fundamentals in **communication systems, digital image processing, and microprocessor-based systems**, complemented by hands-on experience in **network programming, algorithm design, and software simulation**.
+I am a **final-year Electronics & Communication Engineering undergraduate** with strong fundamentals in **control systems, analog-digital communication, and microprocessor-based systems**, complemented by hands-on experience in **network programming, algorithm design, and software simulation**.
 
 I enjoy working on **real-world engineering problems** where **core electronics concepts are translated into software-driven solutions** - from communication systems to intelligent simulations.
 
@@ -20,10 +20,10 @@ I enjoy working on **real-world engineering problems** where **core electronics 
 
 ## 🔬 Areas of Interest
 
-- 📡 Communication & Networking Systems  
-- 🖼️ Digital Image & Signal Processing  
-- 🧩 Algorithms & Path Planning  
-- ⚙️ Engineering Simulations  
+- Communication & Networking Systems  
+- Digital Simulations  
+- Algorithms & Path Planning  
+- Engineering Simulations  
 
 ---
 
@@ -31,8 +31,9 @@ I enjoy working on **real-world engineering problems** where **core electronics 
 
 ### 🔹 Core Electronics
 - Microprocessors & Microcontrollers 
-- Communication Systems
-- Digital Image Processing  
+- Control Systems
+- Digital Electronics
+- Data Networking  
 
 ### 🔹 Programming & CS
 - **Languages:** C, C++, Python  
